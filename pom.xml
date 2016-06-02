@@ -4,7 +4,7 @@
 	<groupId>com.sanyi</groupId>
 	<artifactId>dani</artifactId>
 	<packaging>war</packaging>
-	<version>1.0</version>
+	<version>1.0-SNAPSHOT</version>
 	<name>javaee6-sample</name>
 	<distributionManagement>
 		<snapshotRepository>
