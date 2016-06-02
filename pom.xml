@@ -10,7 +10,7 @@
 		<snapshotRepository>
 			<id>sc</id>
 			<name>sc-snapshots</name>
-			<url>http://10.0.14.101:8080/artifactory/libs-snapshot-local</url>
+			<url>http://10.0.14.101:8081/artifactory/libs-snapshot-local</url>
 		</snapshotRepository>
 	</distributionManagement>
 	<properties>
