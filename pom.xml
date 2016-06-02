@@ -1,8 +1,8 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
 	<modelVersion>4.0.0</modelVersion>
-	<groupId>javaee6</groupId>
-	<artifactId>sample</artifactId>
+	<groupId>com.sanyi</groupId>
+	<artifactId>dani</artifactId>
 	<packaging>war</packaging>
 	<version>1.0</version>
 	<name>javaee6-sample</name>
@@ -10,7 +10,7 @@
 		<snapshotRepository>
 			<id>sc</id>
 			<name>sc-snapshots</name>
-			<url>http://server_url:8081/artifactory/libs-snapshot-local</url>
+			<url>http://10.0.14.101:8080/artifactory/libs-snapshot-local</url>
 		</snapshotRepository>
 	</distributionManagement>
 	<properties>
